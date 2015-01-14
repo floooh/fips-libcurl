@@ -1,0 +1,7 @@
+#
+# fips-libcurl
+#
+---
+exports:
+    header-dirs: [ . ]
+
